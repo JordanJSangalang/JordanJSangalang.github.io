@@ -30,11 +30,14 @@ header {
 }
 
 .logo {
-    cursor: pointer;
-    width: 65px;
-    height: 65px;
-    border-radius: 50%;
+    
+    font-family: 'Times New Roman';
+    color: #FFF;
+    font-size: 2em;
+    display: flex;
+    flex-direction: column;
 }
+
 
 .nav_links {
     text-align: center;
