@@ -1,3 +1,4 @@
+
 * {
     margin: 0;
     padding: 0;
@@ -31,11 +32,14 @@ header {
 
 .logo {
     
-    font-family: 'Times New Roman';
+    font-family: 'Montserrat';
+    font-weight: 900;
     color: #FFF;
-    font-size: 2em;
+    font-size: 3em;
     display: flex;
     flex-direction: column;
+    text-align: left;
+    line-height: 1.1em;
 }
 
 
@@ -94,10 +98,7 @@ header {
     background-color: #fff;
     display: flex;
     flex-direction: column;
-    justify-content: space-around;
-    
-    
-    
+    justify-content: space-around;    
 }
 
 .img img {
